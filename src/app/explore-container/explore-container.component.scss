@@ -25,3 +25,15 @@
 #container a {
   text-decoration: none;
 }
+
+#container button{
+  width: 100px;
+  height: 30px;
+  padding: 3px;
+  background-color: rgba(9, 92, 92, 0.527);
+  transition: .2s;
+}
+
+#container button:hover{
+  background-color: rgba(9, 92, 92, 0.959);
+}
